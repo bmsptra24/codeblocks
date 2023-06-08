@@ -1,0 +1,2 @@
+1. Install codeblock
+2. Copy config dir to Roaming/Codeblocks dir
